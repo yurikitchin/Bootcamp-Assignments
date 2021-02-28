@@ -12,7 +12,6 @@ img {
 
 /*contact info and function*/
 .contact-info {
-    position: relative;
     border: 1px solid blue;
     background-color: rgba(96, 114, 218, 0.507);
     display: flex;
