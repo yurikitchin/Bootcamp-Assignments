@@ -8,7 +8,11 @@
 img {
     height: 200px;
     width: 200px;
-    border: 10px coral;
+    border: 10px solid;
+    border-color: coral;
+    padding: 20px;
+    background: rgba(230, 174, 101, 0.746);
+    background-clip: border-box;
 }
 
 /*contact info and function*/
