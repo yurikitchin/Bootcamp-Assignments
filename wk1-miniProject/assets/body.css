@@ -15,8 +15,34 @@ img {
     position: relative;
     border: 1px solid blue;
     background-color: rgba(96, 114, 218, 0.507);
+    display: flex;
+    justify-content: center;
 }
 
-.contact-info form label{
+.contact-info form label input{
     display: block;
+    justify-content: center;
+    display: table-cell;
+    line-height: 1.5;
+}
+
+form {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 5px 15px;
+    
+}
+
+p {
+    display: table-row;
+    
+}
+
+label {
+    display: table-cell;
+    
+}
+input {
+    display: table-cell;
+   
 }
