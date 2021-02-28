@@ -46,3 +46,16 @@ input {
     display: table-cell;
    
 }
+
+#email {
+    width: 400px;
+}
+
+#name {
+    width: 400px;
+}
+
+#msg {
+    height: 150px;
+    width: 400px;
+}
