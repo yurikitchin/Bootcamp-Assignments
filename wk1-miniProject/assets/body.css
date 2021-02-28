@@ -1,4 +1,10 @@
 .image {
-    padding: 135px;
+    padding: 235px;
+    display: flex;
+    justify-content: center;
+}
 
+img {
+    height: 200px;
+    width: 200px;
 }
