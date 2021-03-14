@@ -6,6 +6,7 @@
 }
 
 img {
+    display: block;
     height: 200px;
     width: 200px;
     border: 10px solid;
@@ -84,4 +85,8 @@ input {
 #msg {
     height: 150px;
     width: 400px;
+}
+
+.image {
+    text-align: center;
 }
